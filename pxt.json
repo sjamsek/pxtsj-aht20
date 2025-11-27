@@ -1,0 +1,11 @@
+{
+    "name": "AHT20",
+    "version": "0.0.1",
+    "description": "Driver for AHT20 Temperature and Humidity Sensor",
+    "dependencies": {},
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
