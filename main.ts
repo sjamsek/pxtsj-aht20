@@ -78,7 +78,7 @@ namespace AHT20Sensor {
     /**
      * Read humidity (%)
      */
-    //% blockId="aht20_read_humidity" block="AHT20 humidity (%)"
+    //% blockId="aht20_read_humidity" block="AHT20 humidity"
     export function humidity(): number {
         let m = readRaw();
         return Math.round(m[0]);
