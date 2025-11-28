@@ -1,4 +1,4 @@
-//% weight=100 color=#32a852 icon=""
+//% weight=100 color=#F70C18 icon="\uf2c7"
 namespace AHT20Sensor {
     const ADDR = 0x38;
     const CMD_INIT = [0xBE, 0x08, 0x00];
