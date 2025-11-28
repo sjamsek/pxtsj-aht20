@@ -1,4 +1,4 @@
-//% weight=100 color=#32a852 icon="\uf2c9" block="AHT20"
+//% weight=100 color=#32a852 block="AHT20"
 namespace AHT20Sensor {
 
     const ADDR = 0x38;
