@@ -1,5 +1,5 @@
 //% weight=100 color=#F70C18 icon="\uf2c7"
-namespace AHT20Sensor {
+namespace AHT20 {
     const ADDR = 0x38;
     const CMD_INIT = [0xBE, 0x08, 0x00];
     const CMD_MEASURE = [0xAC, 0x33, 0x00];
